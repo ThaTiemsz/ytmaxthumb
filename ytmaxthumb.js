@@ -1,5 +1,5 @@
 function maxres(info) {
-	var url = info['srcUrl'];
+	var url = info['srcUrl']; sdfdsfffffffffffffffffffffffffffffffffffffffffffffffffffffffaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasd
 	var newTab = url;
 	
     function containsAny(str, substrings) {
