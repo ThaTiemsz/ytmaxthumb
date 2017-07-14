@@ -11,7 +11,7 @@ How to install:
 - Click on the three stripes on the right to bring up the menu
 - Go over to More Tools and click on Extensions
 - Turn Developer mode on
-- Click the Load unpacked extension button and select the /1.1_0/ folder where you extracted the files to earlier
+- Click the Load unpacked extension button and select the /1.2_0/ folder where you extracted the files to earlier
 - Tick Enable if it isn't already
 (You can disable Developer mode now, if you want to)
 - Go to the YouTube site

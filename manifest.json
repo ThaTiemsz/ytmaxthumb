@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 	"name": "Larger YouTube Thumbnail",
 	"description": "Adds a right-click for the direct link to the maximum resolution of a YouTube video thumbnail.",
-	"version": "1.1",
+	"version": "1.2",
 	"background": {
 		"scripts": [ "jquery-2.2.3.min.js", "ytmaxthumb.js" ]
 	},
